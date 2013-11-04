@@ -1,0 +1,19 @@
+$navbar-inverse-bg: #3F4C6B;
+$navbar-inverse-link-color: #F9F7ED;
+
+@import "bootstrap";
+
+
+body {
+  padding-top: 40px;
+}
+
+.centered { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div#portrait {
+  padding-top: 10px;
+}

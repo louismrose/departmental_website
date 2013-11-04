@@ -8,6 +8,14 @@ body {
   padding-top: 40px;
 }
 
+// Fix icons in navbar to be less padded, but larger
+.navbar-right li a {
+  padding: 11px;
+}
+.navbar img {
+  height: 32px;
+}
+
 .centered { 
   display: block;
   margin-left: auto;
@@ -16,4 +24,8 @@ body {
 
 div#portrait {
   padding-top: 10px;
+}
+
+div#contact img {
+  background-color: #3F4C6B;
 }

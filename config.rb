@@ -75,7 +75,5 @@ activate :deploy do |deploy|
   deploy.method   = :sftp
   deploy.host     = "linux.cs.york.ac.uk"
   deploy.path     = "/usr/louis/web"
-  # Optional Settings
-  # deploy.user     = "tvaughan" # no default
-  # deploy.password = "secret" # no default
+  deploy.user     = "louis"
 end

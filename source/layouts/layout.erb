@@ -30,22 +30,18 @@
           </div>
           
           <div class="collapse navbar-collapse">
-            <ul class="nav navbar-nav">
-              <li class="active"><a href="/">About Me</a></li>
-              <li><a href="/">Research</a></li>
-              <li><a href="/">Teaching</a></li>
+            <ul id="navigation" class="nav navbar-nav">
+              <li id="index"><%= link_to 'About Me', '/index.html' %></li>
+              <li id="publications"><%= link_to 'Publications', '/publications.html' %></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="mailto:louis DOT rose AT york DOT ac DOT uk"><img src="images/email-32.png" class="img-responsive centered" title="Email: louis DOT rose AT york DOT ac DOT uk">
-              <li><a href="http://www.twitter.com/louismrose"><img src="images/twitter-32.png" class="img-responsive centered" title="Twitter: @louismrose"></a></li>
-              <li><a href="http://www.github.com/louismrose"><img src="images/github-32.png" class="img-responsive centered" title="Github: @louismrose"></a></li>
+              <li><a href="mailto:louis DOT rose AT york DOT ac DOT uk"><img src="images/email-32.png" title="Email: louis DOT rose AT york DOT ac DOT uk"></a></li>
+              <li><a href="http://www.twitter.com/louismrose"><img src="images/twitter-32.png" title="Twitter: @louismrose"></a></li>
+              <li><a href="http://www.github.com/louismrose"><img src="images/github-32.png" title="Github: @louismrose"></a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
-          
-          
         </div>
       </div>
-    </div>
     
     <%=yield%>
     

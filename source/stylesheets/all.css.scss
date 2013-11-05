@@ -1,16 +1,19 @@
 $navbar-inverse-bg: #3F4C6B;
 $navbar-inverse-link-color: #F9F7ED;
 
+$label-warning-bg: #E0AD3E;
+
 @import "bootstrap";
 
 
 body {
-  padding-top: 40px;
+  padding-top: 50px;
 }
 
 // Fix icons in navbar to be less padded, but larger
 .navbar-right li a {
-  padding: 11px;
+  padding: 8px;
+  text-align: left;
 }
 .navbar img {
   height: 32px;

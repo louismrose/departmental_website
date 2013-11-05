@@ -51,6 +51,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+set :relative_links, true
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
@@ -64,7 +66,16 @@ configure :build do
 
   # Use relative URLs
   activate :relative_assets
-
+  
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+end
+
+activate :deploy do |deploy|
+  deploy.method   = :sftp
+  deploy.host     = "linux.cs.york.ac.uk"
+  deploy.path     = "/usr/louis/web"
+  # Optional Settings
+  # deploy.user     = "tvaughan" # no default
+  # deploy.password = "secret" # no default
 end

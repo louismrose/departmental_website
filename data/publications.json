@@ -1,0 +1,362 @@
+[
+  {
+		"title" : "Towards A Scalable Cloud Platform for Search-Based Probabilistic Testing",
+		"authors" : "L.M. Rose, S. Poulding, R. Feldt, and R.F. Paige",
+		"journal" : "Proc. International Conference on Software Maintenance (ICSM)",
+    "year" : 2013,
+    "status" : "accepted and to appear",
+    "type" : "conference"
+	},
+  {
+		"title" : "Automated calibration of agent-based immunological simulations",
+		"authors" : "M. Read, M. Tripp, H. Leonova, L. Rose and J. Timmis",
+		"journal" : "Proc. European Conference on Artificial Life (ECAL)",
+    "year" : 2013,
+    "link" : "http://dx.doi.org/10.7551/978-0-262-31709-2-ch129",
+    "type" : "conference"
+	},
+	{
+		"title" : "Proceedings of the Sixth Transformation Tool Contest (TTC) 2013",
+		"authors" : "P. Van Gorp, L.M. Rose, C. Krause (editors)",
+		"journal" : "Electronic Proceedings in Theoretical Computer Science",
+    "year" : 2013,
+    "link" : "http://rvg.web.cse.unsw.edu.au/eptcs/content.cgi?TTC2013",
+    "type" : "proceedings"
+	},
+  {
+		"title" : "The Petri nets to Statecharts Transformation Case",
+		"authors" : "P. Van Gorp and L.M. Rose",
+		"journal" : "Proc. Transformation Tools Contest (TTC)",
+    "year" : 2013,
+    "link" : "http://rvg.web.cse.unsw.edu.au/eptcs/paper.cgi?TTC2013:19",
+    "type" : "workshop"
+	},
+	{
+		"title" : "Proceedings of the workshop on Academics Tooling with Eclipse (ACME) 2013",
+		"authors" : "D. Di Ruscio, D.S. Kolovos, L.M. Rose and S. Al-Hilank (editors)",
+		"journal" : "ACM Digital Library",
+    "year" : 2013,
+    "link" : "http://dl.acm.org/citation.cfm?id=2491279",
+    "type" : "proceedings"
+	},
+	{
+		"title" : "Proceedings of Modelling Foundations and Applications (ECMFA) 2013",
+		"authors" : "P. Van Gorp, T. Ritter and L.M. Rose (editors)",
+		"journal" : "Lecture Notes in Computer Science 7949, Springer",
+    "year" : 2013,
+    "link" : "http://link.springer.com/book/10.1007/978-3-642-39013-5/page/1",
+    "type" : "proceedings"
+	},
+	{
+		"title" : "Efficient Probabilistic Testing of Model Transformations using Search",
+		"authors" : "L.M. Rose and S. Poulding",
+		"journal" : "Proc. International Workshop on Combining Modelling and Search-Based Software Engineering (CMSBSE)",
+    "year" : 2013,
+    "link" : "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6604431&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6588675%2F6604423%2F06604431.pdf%3Farnumber%3D6604431",
+    "type" : "workshop"
+	},
+
+  {
+		"title" : "A research roadmap towards achieving scalability in model driven engineering",
+		"authors" : "D.S. Kolovos, L.M. Rose, N. Matragkas, R.F. Paige, E. Guerra, J. Sanchez Cuadrado, J. De Lara, I. Rath, D. Varro, M. Tisi and J. Cabot",
+		"journal" : "Proc. Workshop on Scalability in Model Driven Engineering (BigMDE)",
+    "year" : 2013,
+    "link" : "http://dl.acm.org/citation.cfm?id=2487768",
+    "type" : "workshop"
+	},
+  
+  {
+		"title" : "Model Management in the Wild",
+		"authors" : "R.F. Paige, D.S Kolovos, L.M Rose, N. Matragkas and J.R. Williams",
+		"journal" : "Generative and Transformational Techniques in Software Engineering IV, Proc. International Summer School, GTTSE 2011",
+    "year" : 2013,
+    "link" : "http://link.springer.com/chapter/10.1007/978-3-642-35992-7_5",
+    "type" : "conference"
+	},
+
+  {
+		"title" : "Lies, Damned Lies and UML2Java",
+		"authors" : "R.F. Paige and L.M. Rose",
+		"journal" : "Journal of Object Technology",
+    "year" : 2013,
+    "link" : "http://dx.doi.org/10.5381/jot.2013.12.1.c1",
+    "type" : "editorial"
+	},
+	{
+		"title" : "Genericity for model management operations",
+		"authors" : "L.M. Rose, E. Guerra, J. de Lara, A. Etien, D.S. Kolovos, and R.F. Paige",
+		"journal" : "Software and Systems Modeling",
+    "year" : 2013,
+    "link" : "http://link.springer.com/article/10.1007/s10270-011-0203-2?null",
+    "type" : "journal"
+	},
+	{
+		"title" : "Epsilon Flock: a model migration language",
+		"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack, and S. Poulding",
+		"journal" : "Software and Systems Modeling",
+    "year" : 2013,
+    "link" : "http://link.springer.com/article/10.1007%2Fs10270-012-0296-2",
+    "type" : "journal"
+	},  
+  {
+		"title" : "EuGENia Live: A Flexible Graphical Modelling Tool",
+		"authors" : "L.M. Rose, D.S. Kolovos, and R.F. Paige",
+		"journal" : "Proc. 1st Extreme Modelling (XM) workshop, co-located with the International Conference on Model Driven Engineering Languages and Systems (MoDELS)",
+    "year" : 2012,
+    "link" : "http://www.di.univaq.it/diruscio/sites/XM2012/xm2012_submission_6.pdf",
+    "type" : "workshop"
+	},
+	
+  {
+		"title" : "A Feature Model for Model-to-Text Transformation Languages",
+		"authors" : "L.M. Rose, N. Matragkas, D.S. Kolovos, and R.F. Paige",
+		"journal" : "Proc. 2012 Models in Software Engineering (MiSE) workshop, co-located with the International Conference on Software Engineering (ICSE)",
+    "year" : 2012,
+    "link" : "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&amp;arnumber=6226015",
+    "type" : "workshop"
+	},
+  
+	{
+		"title" : "A Lightweight Approach for Managing XML Documents with MDE Languages",
+		"authors" : "D.S. Kolovos, L.M. Rose, N. Matragkas, J.R. Williams and R.F. Paige",
+		"journal" : "Proc. 8th European Conference on Modelling, Foundations and Applications (ECMFA)",
+    "year" : 2012,
+    "link" : "http://link.springer.com/chapter/10.1007/978-3-642-31491-9_11",
+    "type" : "conference"
+	},
+	
+  {
+		"title" : "A Plug-in Based Approach for UML Model Simulation",
+		"authors" : "A. Radjenovic, L.M. Rose, R.F. Paige, J. Woodcock and S. King",
+		"journal" : "Proc. 8th European Conference on Modelling, Foundations and Applications (ECMFA)",
+    "year" : 2012,
+    "link" : "http://link.springer.com/chapter/10.1007/978-3-642-31491-9_25",
+    "type" : "conference"
+	},
+	
+	{
+		"title" : "Solving Acquisition Problems using Model-Driven Engineering and Model Transformation",
+		"authors" : "F. Burton, R.F. Paige, D.S. Kolovos, L.M. Rose, and S. Poulding",
+		"journal" : "Proc. 8th European Conference on Modelling, Foundations and Applications (ECMFA)",
+    "year" : 2012,
+    "link" : "http://link.springer.com/chapter/10.1007/978-3-642-31491-9_32",
+    "type" : "conference"
+	},
+
+	{
+		"title" : "Graph and Model Transformation Tools for Model Migration",
+		"authors" : "L.M. Rose, M. Herrmannsdoerfer, S. Mazanek, P. Van Gorp, S. Buchwald, T. Horn, E. Kalnina, A. Koch, K. Lano, B. Schätz, M. Wimmer",
+		"journal" : "Software and Systems Modeling with Graph Transformations",
+    "year" : 2012,
+    "link" : "http://link.springer.com/article/10.1007%2Fs10270-012-0245-0#page-1",
+    "type" : "journal"
+	},
+  {
+		"title" : "Using Model-to-Text Transformation for Dynamic Web-Based Model Navigation",
+		"authors" : "D.S. Kolovos, L.M. Rose, J.R. Williams, F.A.C. Polack, R.F. Paige",
+		"journal" : "Proc. Models @ Runtime workshop, co-located with the International Conference on Model Driven Engineering Languages and Systems (MoDELS)",
+    "year" : 2011,
+    "link" : "http://ceur-ws.org/Vol-794/paper_3.pdf",
+    "type" : "workshop"
+	},
+  {
+  	"title" : "EUnit: a Unit Testing Framework for Model Management Tasks",
+  	"authors" : "A. Garcia Dominguez, D.S. Kolovos, L.M. Rose, R.F. Paige, I. Medina",
+  	"journal" : "Proc. International Conference on Model Driven Engineering Languages and Systems (MoDELS)",
+    "year" : 2011,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-24485-8_29",
+    "type" : "conference"
+  },
+	{
+		"title" : "Saying Hello World with Epsilon - A Solution to the 2011 Instructive Case",
+		"authors" : "L.M. Rose, A. Garcia Dominguez, J.R. Williams, D.S. Kolovos, R.F. Paige, F.A.C. Polack",
+		"journal" : "Proc. Fifth Transformation Tool Contest, Electronic Proceedings in Theoretical Computer Science",
+    "year" : 2011,
+    "link" : "http://dx.doi.org/10.4204/EPTCS.74.27",
+    "type" : "workshop"
+	},
+	{
+		"title" : "Proceedings of the Fifth Transformation Tool Contest (TTC) 2011",
+		"authors" : "P. Van Gorp, S. Mazanek, L.M. Rose (editors)",
+		"journal" : "Electronic Proceedings in Theoretical Computer Science",
+    "year" : 2011,
+    "link" : "http://dx.doi.org/10.4204/EPTCS.74",
+    "type" : "proceedings"
+	},
+  {
+  	"title" : "Identifying desirable game character behaviours through the application of evolutionary algorithms to Model-Driven Engineering metamodels",
+  	"authors" : "J.R. Williams, S. Poulding, L.M. Rose, R.F. Paige, F.A.C. Polack",
+  	"journal" : "Proc. International Symposium on Search Based Software Engineering (SSBSE)",
+    "year" : 2011,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-23716-4_13",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Integrated Model Management with Epsilon",
+  	"authors" : "D.S. Kolovos, R.F. Paige, L.M. Rose, J.R. Williams",
+  	"journal" : "Proc. European Conference on Modelling Foundations and Applications (ECMFA)",
+    "year" : 2011,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-21470-7_33",
+    "type" : "tutorial"
+  },
+  {
+  	"title" : "Taming EMF and GMF Using Model Transformation",
+  	"authors" : "D.S. Kolovos, L.M. Rose, S. bin Abid, R.F. Paige, F.A.C. Polack, G. Botterweck",
+  	"journal" : "Proc. International Conference on Model Driven Engineering Languages and System (MoDELS), Part I",
+    "year" : 2010,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-16145-2_15",
+    "type" : "conference"
+  },
+  {
+  	"title" : "A Comparison of Model Migration Tools",
+  	"authors" : "L.M. Rose, M. Herrmannsdoerfer, J.R. Williams, D.S. Kolovos, K. Garcés, R.F. Paige, F.A.C. Polack",
+  	"journal" : "Proc. International Conference on Model Driven Engineering Languages and Systems (MoDELS), Part I",
+    "year" : 2010,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-16145-2_5",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Comparing Model-Metamodel and Transformation-Metamodel Co-evolution",
+  	"authors" : "L.M. Rose, A. Etien, D. Méndez, D.S. Kolovos, R.F. Paige, F.A.C. Polack",
+  	"journal" : "Proc. Models and Evolution Workshop, co-located with the International Conference on Model Driven Engineering Languages and Systems (MoDELS)",
+    "year" : 2010,
+    "link" : "http://www.modse.fr/lib/exe/fetch.php?id",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Model Migration with Epsilon Flock",
+  	"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack",
+  	"journal" : "Proc. International Conference on the Theory and Practice of Model Transformations (ICMT)",
+    "year" : 2010,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-13688-7_13",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Constructing and Navigating Non-invasive Model Decorations",
+  	"authors" : "D.S. Kolovos, L.M. Rose, N. Matragkas, R.F. Paige, F.A.C. Polack, K.J. Fernandes",
+  	"journal" : "Proc. International Conference on the Theory and Practice of Model Transformations (ICMT)",
+    "year" : 2010,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-13688-7_10",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Migrating Activity Diagrams with Epsilon Flock",
+  	"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack",
+  	"journal" : "Proc. Transformation Tools Contest (TTC), co-located with the International Conference on Objects, Models, Components and Patterns (TOOLS Europe)",
+    "year" : 2010,
+    "link" : "http://is.ieis.tue.nl/staff/pvgorp/events/TTC2010/submissions/final/flock.pdf",
+    "type" : "workshop"
+  },
+  {
+  	"title" : "Model Migration Case",
+  	"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack",
+  	"journal" : "Proc. Transformation Tools Contest (TTC), co-located with the International Conference on Objects, Models, Components and Patterns (TOOLS Europe)",
+    "year" : 2010,
+    "link" : "http://is.ieis.tue.nl/staff/pvgorp/events/TTC2010/cases/ttc2010_submission_2_v2010-04-22.pdf",
+    "type" : "workshop"
+  },
+  {
+  	"title" : "Ecore to GenModel Case",
+  	"authors" : "D.S. Kolovos, L.M. Rose, R.F. Paige, J. de Lara",
+  	"journal" : "Proc. Transformation Tools Contest (TTC), co-located with the International Conference on Objects, Models, Components and Patterns (TOOLS Europe)",
+    "year" : 2010,
+    "link" : "http://is.ieis.tue.nl/staff/pvgorp/events/TTC2010/cases/ttc2010_submission_5_v2010-04-15.pdf",
+    "type" : "workshop"
+  },
+  {
+  	"title" : "A Reflective Approach to Model-Driven Web Engineering",
+  	"authors" : "D. Clowes, D.S. Kolovos, C. Holmes, L.M. Rose, R.F. Paige, J. Johnson, R. Dawson, S.G. Probets",
+  	"journal" : "Proc. European Conference on Modelling Foundations and Applications",
+    "year" : 2010,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-13595-8_7",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Concordance: An Efficient Framework for Managing Model Integrity",
+  	"authors" : "L.M. Rose, D.S. Kolovos, N. Drivalos, J.R. Williams, R.F. Paige, F.A.C. Polack, K.J. Fernandes",
+  	"journal" : "Proc. European Conference on Modelling Foundations and Applications",
+    "year" : 2010,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-13595-8_20",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Enhanced Automation for Managing Model, Metamodel Inconsistency",
+  	"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack",
+  	"journal" : "Proc. International Conference on Automated Software Engineering (ASE)",
+    "year" : 2009,
+    "link" : "http://doi.ieeecomputersociety.org/10.1109/ASE.2009.57",
+    "type" : "conference"
+  },
+  {
+  	"title" : "An Analysis of Approaches to Model Migration",
+  	"authors" : "L.M. Rose, R.F. Paige, D.S. Kolovos, F.A.C. Polack",
+  	"journal" : "Proc. Joint Model-Driven Software Evolution and Model Co-evolution and Consistency Management (MoDSE-MCCM) Workshop, co-located with the International Conference on Model-Driven Engineering Languages and Systems (MoDELS)",
+    "year" : 2009,
+    "link" : "http://www.modse.fr/modsemccm09/lib/exe/fetch.php?id",
+    "type" : "workshop"
+  },
+  {
+  	"title" : "Emerging Patterns for Testing Model Management Tools",
+  	"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, T. Gilliam, F.A.C. Polack",
+  	"journal" : "Proc. Workshop on Model-based Testing in Practice (MoTiP), co-located with the European Conference on Model-Driven Architecture - Foundations and Applications (ECMDA-FA)",
+    "year" : 2009,
+    "link" : "http://www.fokus.fraunhofer.de/en/fokus_events/motion/motip_2009/_docs/Motip2009_11_Rose.pdf",
+    "type" : "workshop"
+  },
+  {
+  	"title" : "The Design of a Conceptual Framework and Technical Infrastructure for Model Management Language Engineering",
+  	"authors" : "R.F. Paige, D.S. Kolovos, L.M. Rose, N. Drivalos, F.A.C. Polack",
+  	"journal" : "Proc. International Conference on Engineering of Complex Computer Systems (ICECCS)",
+    "year" : 2009,
+    "link" : "http://dx.doi.org/10.1109/ICECCS.2009.14",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Raising the Level of Abstraction in the Development of GMF-based Graphical Model Editors",
+  	"authors" : "D.S. Kolovos, L.M. Rose, R.F. Paige, F.A.C. Polack",
+  	"journal" : "Proc. Modeling in Software Engineering (MiSE), co-located with the International Conference on Software Engineering (ICSE)",
+    "year" : 2009,
+    "link" : "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5069891&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5069891",
+    "type" : "workshop"
+  },
+  {
+  	"title" : "FPTC: Automated Safety Analysis for Domain-Specific Languages",
+  	"authors" : "R.F. Paige, L.M. Rose, X. Ge, D.S. Kolovos, P.J. Brooke",
+  	"journal" : "Models in Software Engineering, Workshops and Symposia at MoDELS 2008, Reports and Revised Selected Papers",
+    "year" : 2009,
+    "link" : "http://dx.doi.org/10.1007/978-3-642-01648-6_25",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Constructing Models with the Human-Usable Textual Notation",
+  	"authors" : "L.M. Rose, R.F. Paige, D.S. Kolovos, F.A.C. Polack",
+  	"journal" : "Proc. International Conference on Model Driven Engineering Languages and Systems (MoDELS)",
+    "year" : 2008,
+    "link" : "http://dx.doi.org/10.1007/978-3-540-87875-9_18",
+    "type" : "conference"
+  },
+  {
+  	"title" : "The Epsilon Generation Language",
+  	"authors" : "L.M. Rose, R.F. Paige, D.S. Kolovos, F.A.C. Polack",
+  	"journal" : "Proc. European Conference on Model Driven Architecture — Foundations and Applications",
+    "year" : 2008,
+    "link" : "http://dx.doi.org/10.1007/978-3-540-69100-6_1",
+    "type" : "conference"
+  },
+  {
+  	"title" : "Unit Testing Model Management Operations",
+  	"authors" : "D.S. Kolovos, R.F. Paige, L.M. Rose, F.A.C. Polack",
+  	"journal" : "Proc. Workshop on Model-Driven Engineering Verification and Validation (MoDeVVa), col-located with the International Conference on Software Testing, Verification and Valdidation (ICST)",
+    "year" : 2008,
+    "link" : "http://ieeexplore.ieee.org/iel5/4566983/4566984/04566996.pdf?arnumber=4566996",
+    "type" : "workshop"
+  },
+  {
+  	"title" : "Update Transformations in the Small with the Epsilon Wizard Language",
+  	"authors" : "D.S. Kolovos, R.F. Paige, F.A.C. Polack, L.M. Rose",
+  	"journal" : "Journal of Object Technology",
+    "year" : 2007,
+    "link" : "http://www.jot.fm/issues/issue_2007_10/paper3/index.html",
+    "type" : "journal"
+  }
+]

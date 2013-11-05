@@ -1,0 +1,29 @@
+<div class="container">
+  
+  <% data.publications.group_by { |pub| pub.year }.each_pair do |year, pubs| %>
+    <h2><%= year%></h2>
+    <% pubs.each do |pub| %>
+      <p>
+        <% case pub.type
+          when "journal" %>
+          <span class="label label-success">journal</span>
+        <% when "conference" %>
+          <span class="label label-warning">conference</span>
+        <% when "workshop" %>
+          <span class="label label-danger">workshop</span>
+        <% when "proceedings" %>
+          <span class="label label-primary">proceedings</span>
+        <% else %>
+          <span class="label label-default"><%=pub.type%></span>
+        <% end %>
+        <% if pub.has_key?('link') %>
+          <a href="<%=pub.link%>"><strong><%= pub.title%></strong></a><br/>
+        <% else %>
+          <strong><%= pub.title%></strong><br/>
+        <% end %>
+        <%= pub.authors %><br/>
+        <em><%= pub.fetch('status', '')%> in <%= pub.journal %></em>
+      </p>
+    <% end %>
+  <% end %>
+</div>

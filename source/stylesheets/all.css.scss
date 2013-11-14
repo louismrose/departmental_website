@@ -5,6 +5,9 @@ $label-warning-bg: #E0AD3E;
 
 @import "bootstrap";
 
+html {
+ overflow-y: scroll;
+}
 
 body {
   padding-top: 50px;

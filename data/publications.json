@@ -1,5 +1,14 @@
 [
   {
+		"title" : "Guest editors' introduction to the first issue on Experimental Software Engineering in the Cloud (ESEiC)",
+		"authors" : "P. Van Gorp, L.M. Rose",
+		"journal" : "Science of Computer Programming",
+    "year" : 2013,
+    "link" : "http://dx.doi.org/10.1016/j.scico.2013.12.007",
+    "status" : "in press and to appear",
+    "type" : "editorial"
+	},
+  {
 		"title" : "A survey and comparison of transformation tools based on the transformation tool contest",
 		"authors" : "E. Jakumeit, S. Buchwald, D. Wagelaar, L. Dan, A. Hegedus, M. Herrmannsdorfer, T. Horn, E. Kalnina, C. Krause, K. Lano, A. Rensink, L.M. Rose and S. Watzoldth",
 		"journal" : "Science of Computer Programming",

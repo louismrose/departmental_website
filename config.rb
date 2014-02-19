@@ -72,7 +72,7 @@ configure :build do
 end
 
 activate :deploy do |deploy|
-  deploy.method   = :sftp
+  deploy.method   = :rsync
   deploy.host     = "linux.cs.york.ac.uk"
   deploy.path     = "/usr/louis/web"
   deploy.user     = "louis"

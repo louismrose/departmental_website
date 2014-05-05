@@ -1,37 +1,67 @@
 [
+	{
+		"title" : "Epsilon Flock: a model migration language",
+		"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack, and S. Poulding",
+		"journal" : "Software and Systems Modeling (13:2)",
+    "year" : 2014,
+    "link" : "http://link.springer.com/article/10.1007%2Fs10270-012-0296-2",
+    "type" : "journal"
+	},
   {
 		"title" : "Guest editors' introduction to the first issue on Experimental Software Engineering in the Cloud (ESEiC)",
 		"authors" : "P. Van Gorp, L.M. Rose",
 		"journal" : "Science of Computer Programming",
-    "year" : 2013,
+    "year" : 2014,
     "link" : "http://dx.doi.org/10.1016/j.scico.2013.12.007",
-    "status" : "in press and to appear",
     "type" : "editorial"
 	},
   {
 		"title" : "A survey and comparison of transformation tools based on the transformation tool contest",
 		"authors" : "E. Jakumeit, S. Buchwald, D. Wagelaar, L. Dan, A. Hegedus, M. Herrmannsdorfer, T. Horn, E. Kalnina, C. Krause, K. Lano, A. Rensink, L.M. Rose and S. Watzoldth",
 		"journal" : "Science of Computer Programming",
-    "year" : 2013,
+    "year" : 2014,
     "link" : "http://dx.doi.org/10.1016/j.scico.2013.10.009",
-    "status" : "in press and to appear",
     "type" : "journal"
 	},
+  {
+    "title" : "Graph and model transformation tools for model migration - Empirical results from the transformation tool contest",
+    "authors" : "L.M. Rose, M. Herrmannsdoerfer, S. Mazanek, P. Van Gorp, S. Buchwald, T. Horn, E. Kalnina, A. Koch, K. Lano, B. Schatz, M. Wimmer",
+    "journal" : "Software and System Modeling (13:1)",
+    "year" : "2014",
+    "link" : "http://dx.doi.org/10.1007/s10270-012-0245-0",
+    "type" : "journal"
+  },
   {
     "title" : "A Systematic Review of Cloud Lock-in Solutions",
     "authors" : "G. Costa Silva, L.M. Rose, R. Calinescu",
     "journal" : "Proc. IEEE Cloud Computing (CloudCom)",
     "year" : 2013,
-    "status" : "accepted and to appear",
+    "link" : "http://dx.doi.org/10.1109/CloudCom.2013.130",
     "type" : "conference"
+  },
+  {
+    "title" : "Towards a Model-Driven Solution to the Vendor Lock-In Problem in Cloud Computing",
+    "authors" : "G. Costa Silva, L.M. Rose, R. Calinescu",
+    "journal" : "Proc. IEEE Cloud Computing (CloudCom)",
+    "year" : 2013,
+    "link" : "http://dx.doi.org/10.1109/CloudCom.2013.131",
+    "type" : "workshop"
   },
   {
 		"title" : "Towards A Scalable Cloud Platform for Search-Based Probabilistic Testing",
 		"authors" : "L.M. Rose, S. Poulding, R. Feldt, and R.F. Paige",
 		"journal" : "Proc. International Conference on Software Maintenance (ICSM)",
     "year" : 2013,
-    "status" : "accepted and to appear",
-    "type" : "conference"
+    "type" : "conference",
+    "link" : "http://dx.doi.org/10.1109/ICSM.2013.77"
+	},
+  {
+		"title" : "What do Metamodels Really Look Like?",
+		"authors" : "J.R. Williams, A. Zolotas, N. Drivalos Matragkas, L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack",
+		"journal" : "Proc. International Workshop on Experiences and Empirical Studies in Software Modeling",
+    "year" : 2013,
+    "type" : "workshop",
+    "link" : "http://ceur-ws.org/Vol-1078/paper7.pdf"
 	},
   {
 		"title" : "Automated calibration of agent-based immunological simulations",
@@ -116,14 +146,6 @@
     "link" : "http://link.springer.com/article/10.1007/s10270-011-0203-2?null",
     "type" : "journal"
 	},
-	{
-		"title" : "Epsilon Flock: a model migration language",
-		"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack, and S. Poulding",
-		"journal" : "Software and Systems Modeling",
-    "year" : 2013,
-    "link" : "http://link.springer.com/article/10.1007%2Fs10270-012-0296-2",
-    "type" : "journal"
-	},  
   {
 		"title" : "EuGENia Live: A Flexible Graphical Modelling Tool",
 		"authors" : "L.M. Rose, D.S. Kolovos, and R.F. Paige",

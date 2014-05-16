@@ -74,6 +74,6 @@ end
 activate :deploy do |deploy|
   deploy.method   = :rsync
   deploy.host     = "staffmount.cs.york.ac.uk"
-  deploy.path     = "/usr/louis/web"
+  deploy.path     = "/n/www/usr/louis"
   deploy.user     = "louis"
 end

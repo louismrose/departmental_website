@@ -1,5 +1,13 @@
 [
 	{
+		"title" : "On the use of Signatures for Source Incremental Model-to-text Transformation",
+		"authors" : "B. Ogunyomi, L.M. Rose, D.S. Kolovos",
+		"journal" : "Proc. International Conference on Model Driven Engineering Languages and Systems (MoDELS)",
+    "year" : 2014,
+    "status" : "accepted and to appear",
+    "type" : "conference"
+	},
+	{
 		"title" : "Epsilon Flock: a model migration language",
 		"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack, and S. Poulding",
 		"journal" : "Software and Systems Modeling (13:2)",

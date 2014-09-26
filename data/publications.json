@@ -1,12 +1,43 @@
 [
+  {
+    "title" : "A Qualitative Study of Model Transformation Development Approaches: Supporting Novice Developers",
+    "authors" : "G. Costa Silva, L.M. Rose, R. Calinescu",
+    "journal" : "Proc. Model-Driven Development Processes and Practices (MD^2P^2)",
+    "year" : "2014",
+    "link" : "http://ceur-ws.org/Vol-1249/paper2.pdf",
+    "type" : "workshop"
+  },
+  {
+    "title" : "Cloud DSL: A Language for Supporting Cloud Portability by Describing Cloud Entities",
+    "authors" : "G. Costa Silva, L.M. Rose, R. Calinescu",
+    "journal" : "Proc. Model-Driven Engineering on and for the Cloud (CloudMDE)",
+    "year" : "2014",
+    "link" : "http://ceur-ws.org/Vol-1242/paper9.pdf",
+    "type" : "workshop"
+  },
+	{
+		"title" : "User-defined Signatures for Source Incremental Model-to-Text Transformation",
+		"authors" : "B. Ogunyomi, L.M. Rose, D.S. Kolovos",
+		"journal" : "Proc. Models and Evolution (ME)",
+    "year" : 2014,
+    "type" : "workshop"
+	},
 	{
 		"title" : "On the use of Signatures for Source Incremental Model-to-text Transformation",
 		"authors" : "B. Ogunyomi, L.M. Rose, D.S. Kolovos",
 		"journal" : "Proc. International Conference on Model Driven Engineering Languages and Systems (MoDELS)",
     "year" : 2014,
-    "status" : "accepted and to appear",
+    "link" : "http://link.springer.com/chapter/10.1007%2F978-3-319-11653-2_6#page-1",
     "type" : "conference"
 	},
+  {
+    "title" : "A Framework to Benchmark NoSQL Data Stores for Large-Scale Model Persistence",
+    "authors" : "S.M. Shah, R. Wei, D.S. Kolovos, L.M. Rose, R.F. Paige, K. Barmpis",
+		"journal" : "Proc. International Conference on Model Driven Engineering Languages and Systems (MoDELS)",
+    "year" : 2014,
+    "link" : "http://link.springer.com/chapter/10.1007%2F978-3-319-11653-2_36",
+    "type" : "conference"
+  },
 	{
 		"title" : "Epsilon Flock: a model migration language",
 		"authors" : "L.M. Rose, D.S. Kolovos, R.F. Paige, F.A.C. Polack, and S. Poulding",

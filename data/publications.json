@@ -3,7 +3,7 @@
     "title" : "A Qualitative Study of Model Transformation Development Approaches: Supporting Novice Developers",
     "authors" : "G. Costa Silva, L.M. Rose, R. Calinescu",
     "journal" : "Proc. Model-Driven Development Processes and Practices (MD^2P^2)",
-    "year" : "2014",
+    "year" : 2014,
     "link" : "http://ceur-ws.org/Vol-1249/paper2.pdf",
     "type" : "workshop"
   },
@@ -11,7 +11,7 @@
     "title" : "Cloud DSL: A Language for Supporting Cloud Portability by Describing Cloud Entities",
     "authors" : "G. Costa Silva, L.M. Rose, R. Calinescu",
     "journal" : "Proc. Model-Driven Engineering on and for the Cloud (CloudMDE)",
-    "year" : "2014",
+    "year" : 2014,
     "link" : "http://ceur-ws.org/Vol-1242/paper9.pdf",
     "type" : "workshop"
   },

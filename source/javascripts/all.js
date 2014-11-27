@@ -1,6 +1,7 @@
 //= require_tree .
-//= require jquery-2.0.3.min
+//= require jquery
 //= require bootstrap
+//= require conferencetracker
 
 $(function() {
   var pageId = document.body.className;

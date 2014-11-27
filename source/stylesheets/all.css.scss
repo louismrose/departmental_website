@@ -1,8 +1,9 @@
+//= require_tree .
+
+// Require bootstrap-scss (rather than via sprockets) so that colours can be overridden
 $navbar-inverse-bg: #3F4C6B;
 $navbar-inverse-link-color: #F9F7ED;
-
 $label-warning-bg: #E0AD3E;
-
 @import "bootstrap";
 
 html {

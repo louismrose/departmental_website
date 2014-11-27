@@ -1,0 +1,66 @@
+[ 
+  {
+    "title" : "Mutation",
+    "description" : "The goal of the Mutation workshop is to provide a forum for researchers and practitioners to discuss new and emerging trends in mutation analysis. We invite submissions of both full-length and short-length research papers as well as industry practice papers.",
+    "location" : "Gratz, Austria",
+    "deadline" : "01/30/15",
+    "notification" : "03/01/15",
+    "url" : "https://sites.google.com/site/mutationworkshop2015/"
+  },
+  { 
+    "title": "ICMT", 
+    "description": "ICMT is the premier forum for researchers and practitioners from all areas of model transformation.",
+    "location": "LAquila, Italy", 
+    "deadline": "02/22/2015", 
+    "notification": "03/22/2015", 
+    "url": "http://www.model-transformation.org/" 
+  }, 
+  { 
+    "title": "ECMFA", 
+    "description": "The ECMFA conference series is dedicated to advancing the state of knowledge and fostering the industrial application of MBE and related approaches. Its focus is on engaging the key figures of research and industry in a dialog which will result in stronger and more effective practical application of MBE, hence producing more reliable software based on state-of-the-art research results.", 
+    "location": "LAquila, Italy", 
+    "deadline": "03/06/2015", 
+    "notification": "04/17/2015", 
+    "url": "https://www.uni-marburg.de/fb12/swt/ecmfa2015/" 
+  },
+  { 
+    "title": "TTC", 
+    "description": "TTC is a contest to evaluate and compare the expressiveness, usability and performance of transformation tools for structured data along a number of selected challenging case studies. ", 
+    "location": "LAquila, Italy", 
+    "deadline": "04/29/2015", 
+    "notification": "05/27/2015", 
+    "url": "http://www.transformation-tool-contest.eu" 
+  },
+  {
+    "title": "MoDELS",
+    "description": "MODELS is the premier conference series for model-based software and systems engineering which since 1998 has been covering all aspects of modeling, from languages and methods to tools and applications.",
+    "location" : "Ottawa, Canada",
+    "deadline": "05/08/2015",
+    "notification": "07/10/2015",
+    "url" : "http://cruise.eecs.uottawa.ca/models2015/calls.html"
+  },
+  { 
+    "title": "ASE", 
+    "description": "The ACM/IEEE Automated Software Engineering (ASE) Conference series is the premier research forum for automated software engineering. Each year, it brings together researchers and practitioners from academia and industry to discuss foundations, techniques and tools for automating the analysis, design, implementation, testing, and maintenance of large software systems.", 
+    "location": "Lincoln, Nebraska, USA", 
+    "deadline": "05/15/2015", 
+    "notification": "07/01/2015", 
+    "url": "http://ase-conferences.org/" 
+  },
+  {
+    "title": "ICSE",
+    "description": "ICSE is the premier software engineering conference, providing a forum for researchers, practitioners and educators to present and discuss the most recent innovations, trends, experiences and concerns in the field of software engineering.",
+    "location": "Austin, Texas, USA",
+    "deadline": "09/04/2015",
+    "notification": "12/20/2015",
+    "url": "http://2016.icse.cs.txstate.edu/dates"
+  },
+  {
+    "title": "ICST",
+    "description": "ICST is the premier conference in all areas related to software testing. Our focus for 2016 is to show that software testing, V&V can be applied to complex heterogeneous distributed software systems.",
+    "location": "Chicago, Illinois, USA",
+    "deadline": "09/22/2015",
+    "notification": "12/22/2015",
+    "url": "http://www.cs.uic.edu/~icst2016/calls.htm"
+  }
+]

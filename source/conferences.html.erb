@@ -1,0 +1,34 @@
+<div class="container">
+  <h2>Upcoming Conferences</h2>
+  <p>A summary of the conferences that I am likely to be involved with (as an author, reviewer or participant).</p>
+  
+  <div class="row">
+    <div class="col-md-6">
+      <div id="map"></div>
+    </div>
+    <div class="col-md-6">
+      <h4>Reviewing Period</h4>
+      <div id="timeline"></div>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-12">
+      <div id="table"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+  var dataRows = JSON.parse('<%=data.conferences.to_json%>');
+        
+    google.setOnLoadCallback(function() {
+      ConferenceTracker.load(dataRows);
+      
+      ConferenceTracker.link(
+        ConferenceTracker.drawTable(document.getElementById('table'), true),
+        ConferenceTracker.drawMap(document.getElementById('map')),
+        ConferenceTracker.drawTimeline(document.getElementById('timeline'))
+      );
+    });
+</script>

@@ -1,5 +1,13 @@
 [
   {
+		"title" : "Eugenia: towards disciplined and automated development of GMF-based graphical model editors",
+		"authors" : "D.S. Kolovos, A. Garcia-Dominguez, L.M. Rose, R.F. Paige",
+		"journal" : "Software and Systems Modeling (Online First)",
+    "year" : 2015,
+    "link" : "http://dx.doi.org/10.1007/s10270-015-0455-3",
+    "type" : "journal"
+  },
+  {
 		"title" : "Guest editors' introduction to the fifth issue of Experimental Software Engineering and Toolkits (EST)",
 		"authors" : "M. van den Brand, D. Di Ruscio, D.S. Kolovos, L.M. Rose",
 		"journal" : "Science of Computer Programming",

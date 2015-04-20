@@ -2,10 +2,10 @@
 ruby '2.2.2'
 source 'https://rubygems.org'
 
-gem "middleman", "~> 3.2.0"
-gem "middleman-livereload", "~> 3.1.0"
+gem "middleman", "~> 3.3.0"
+gem "middleman-livereload", "~> 3.4.0"
 
-gem "middleman-deploy", "~> 0.1.3"
+gem "middleman-deploy", "~> 1.0.0"
 gem "highline", "~> 1.6.20"
 
-gem "bootstrap-sass", "~> 3.0.0.0", require: false
+gem "bootstrap-sass", "~> 3.3.4", require: false

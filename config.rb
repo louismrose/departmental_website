@@ -75,7 +75,7 @@ end
 
 activate :deploy do |deploy|
   deploy.method   = :rsync
-  deploy.host     = "staffmount.cs.york.ac.uk"
+  deploy.host     = "csresearch1.york.ac.uk"
   deploy.path     = "/shared/cssamba0/webstaff/louis"
-  deploy.user     = "louis"
+  deploy.user     = "lmr109"
 end

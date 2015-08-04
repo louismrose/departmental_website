@@ -1,5 +1,13 @@
 [
   {
+		"title" : "Property Access Traces for Source Incremental Model-to-Text Transformation",
+		"authors" : "B. Ogunyomi, L.M. Rose, D.S. Kolovos",
+		"journal" : "Proc. European Conference on Modelling Foundations and Applications",
+    "year" : 2015,
+    "link" : "http://dx.doi.org/10.1007/978-3-319-21151-0_13",
+    "type" : "conference"
+  },
+  {
 		"title" : "Eugenia: towards disciplined and automated development of GMF-based graphical model editors",
 		"authors" : "D.S. Kolovos, A. Garcia-Dominguez, L.M. Rose, R.F. Paige",
 		"journal" : "Software and Systems Modeling (Online First)",
@@ -14,6 +22,14 @@
     "year" : 2015,
     "link" : "http://dx.doi.org/10.1016/j.scico.2014.11.001",
     "type" : "editorial"
+  },
+  {
+    "title" : "Bad Modelling Teaching Practices",
+    "authors" : "R.F. Paige, F.A.C. Polack, D.S. Kolovos, L.M. Rose, N.D. Matragkas, J.R. Williams",
+    "journal" : "Proc. Educators' Symposium at MoDELS",
+    "year" : 2014,
+    "link" : "http://ceur-ws.org/Vol-1346/edusymp2014_paper_keynote.pdf",
+    "type" : "workshop"
   },
   {
     "title" : "A Qualitative Study of Model Transformation Development Approaches: Supporting Novice Developers",
@@ -175,7 +191,7 @@
     "link" : "http://dl.acm.org/citation.cfm?id=2487768",
     "type" : "workshop"
 	},
-  
+
   {
 		"title" : "Model Management in the Wild",
 		"authors" : "R.F. Paige, D.S Kolovos, L.M Rose, N. Matragkas and J.R. Williams",
@@ -209,7 +225,7 @@
     "link" : "http://www.di.univaq.it/diruscio/sites/XM2012/xm2012_submission_6.pdf",
     "type" : "workshop"
 	},
-	
+
   {
 		"title" : "A Feature Model for Model-to-Text Transformation Languages",
 		"authors" : "L.M. Rose, N. Matragkas, D.S. Kolovos, and R.F. Paige",
@@ -218,7 +234,7 @@
     "link" : "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&amp;arnumber=6226015",
     "type" : "workshop"
 	},
-  
+
 	{
 		"title" : "A Lightweight Approach for Managing XML Documents with MDE Languages",
 		"authors" : "D.S. Kolovos, L.M. Rose, N. Matragkas, J.R. Williams and R.F. Paige",
@@ -227,7 +243,7 @@
     "link" : "http://link.springer.com/chapter/10.1007/978-3-642-31491-9_11",
     "type" : "conference"
 	},
-	
+
   {
 		"title" : "A Plug-in Based Approach for UML Model Simulation",
 		"authors" : "A. Radjenovic, L.M. Rose, R.F. Paige, J. Woodcock and S. King",
@@ -236,7 +252,7 @@
     "link" : "http://link.springer.com/chapter/10.1007/978-3-642-31491-9_25",
     "type" : "conference"
 	},
-	
+
 	{
 		"title" : "Solving Acquisition Problems using Model-Driven Engineering and Model Transformation",
 		"authors" : "F. Burton, R.F. Paige, D.S. Kolovos, L.M. Rose, and S. Poulding",
